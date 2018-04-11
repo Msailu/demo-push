@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoDynamoDbApplication {
 
 	public static void main(String[] args) {
+		/** this is sample file **/
 		SpringApplication.run(DemoDynamoDbApplication.class, args);
 	}
 }
